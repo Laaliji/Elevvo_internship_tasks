@@ -79,6 +79,3 @@ Key themes: Handling imbalanced data, domain adaptation, interpretability (e.g.,
 - **Data Handling**: UCI/ML repos, CSV/Zip datasets.
 - **Metrics**: Accuracy, F1-Score, MAE, Confusion Matrix, ROC-AUC.
 
-## Setup Instructions
-
-1. **Clone the Repo**:
