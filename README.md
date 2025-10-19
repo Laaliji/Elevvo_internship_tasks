@@ -1,7 +1,5 @@
 # ML Projects Portfolio: Elevvo Tasks
 
-![ML Projects Banner](https://via.placeholder.com/1200x300/4A90E2/FFFFFF?text=ML+Projects:+Elevvo+Tasks) <!-- Replace with an actual image if available -->
-
 Welcome to my collection of machine learning projects completed as part of the Elevvo tasks! This repository showcases hands-on implementations across various domains, including computer vision, time series forecasting, classification, and predictive modeling. Each notebook demonstrates end-to-end workflows: data loading, exploration, modeling, evaluation, and insights.
 
 These projects use Python, TensorFlow/Keras, Scikit-learn, XGBoost, and more, with a focus on practical problem-solving, hyperparameter tuning, and interpretability.
